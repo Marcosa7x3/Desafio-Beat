@@ -14,26 +14,38 @@
 
   .li1{
       display: flex;
-      justify-content:space-evenly;
+      justify-content:space-around;
       text-transform: uppercase;
       text-decoration-color: white ;
       padding: 2rem;
-      padding-right: 30rem;
+      padding-right: 27rem;
   }
 
   .li2{
     display: flex;
-    justify-content:space-evenly;
     text-transform: uppercase;
     text-decoration-color: white ;
     margin: 14rem;
+    justify-content: space-around;
   }
 
   h1{
       margin-top: 6em;
   }
 
-  img{
-      width: 400px;
-      height: 400px;
+  .seção{
+    width: 1360px;
+    height: 1500px;
+    background-color: #FFA185;
+  }
+
+  .li3{
+      display: grid;
+  }
+
+  .rodapé{
+      width: 1360px;
+      width: px;
+      height: 150px;
+      background-color: #129799;
   }
